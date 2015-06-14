@@ -1,0 +1,16 @@
+E:\web_application\WorldsCountryInfoApp\WorldsCountryInfoApp\bin\WorldsCountryInfoApp.dll
+E:\web_application\WorldsCountryInfoApp\WorldsCountryInfoApp\bin\WorldsCountryInfoApp.pdb
+E:\web_application\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\ResolveAssemblyReference.cache
+E:\web_application\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\WorldsCountryInfoApp.dll
+E:\web_application\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\WorldsCountryInfoApp.pdb
+E:\fatemab3\WorldsCountryInfoApp\WorldsCountryInfoApp\bin\WorldsCountryInfoApp.dll.config
+E:\fatemab3\WorldsCountryInfoApp\WorldsCountryInfoApp\bin\WorldsCountryInfoApp.dll
+E:\fatemab3\WorldsCountryInfoApp\WorldsCountryInfoApp\bin\WorldsCountryInfoApp.pdb
+E:\fatemab3\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\WorldsCountryInfoApp.csprojResolveAssemblyReference.cache
+E:\fatemab3\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\WorldsCountryInfoApp.dll
+E:\fatemab3\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\WorldsCountryInfoApp.pdb
+C:\Users\Fatema\Desktop\WorldsCountryInfoApp\WorldsCountryInfoApp\bin\WorldsCountryInfoApp.dll
+C:\Users\Fatema\Desktop\WorldsCountryInfoApp\WorldsCountryInfoApp\bin\WorldsCountryInfoApp.pdb
+C:\Users\Fatema\Desktop\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fatema\Desktop\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\WorldsCountryInfoApp.dll
+C:\Users\Fatema\Desktop\WorldsCountryInfoApp\WorldsCountryInfoApp\obj\Debug\WorldsCountryInfoApp.pdb

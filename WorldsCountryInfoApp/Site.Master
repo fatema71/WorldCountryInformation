@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WorldsCountryInfoApp.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="<%=Page.ResolveClientUrl("~/Style.css")%>" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder> 
+    <style>
+    body{margin:0;padding:0px}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="dvHeader">
+          <h1>Know the World</h1>
+        </div> 
+        <div id="dvManu">
+        <ul>
+            <li><a href="CountryEntryUI.aspx">Country Entry</a></li>
+            <li><a href="CityEntryUI.aspx">City Entry</a></li>
+            <li><a href="ViewCitiesUI.aspx">View Cities</a></li>
+            <li><a href="ViewCountryUI.aspx">View Country</a></li>
+        </ul>
+        </div>
+        
+         <div id="dvContent" >
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="dvFooter"> 
+        Design and Developed by Fatema
+        </div>
+    </form>
+</body>
+</html>
